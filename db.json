@@ -20,7 +20,7 @@
       "postInfo": {
         "type": "quizz",
         "quizz":{
-          "datePosted": 1608249600,
+          "endDate": 1608249600,
           "title": "من هي شخصية علم نور المفضلة لديك ؟",
           "totalAnswers":10,
           "answered" : false,
