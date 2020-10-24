@@ -14,7 +14,59 @@
       "isCommentedOn": false,
       "commentsCount": 22,
       "isStarred": false
-    }
+    },
+    {
+      "id": "1",
+      "postInfo": {
+        "type": "quizz",
+        "quizz":{
+          "datePosted": 1606820077,
+          "title": "من هي شخصية علم نور المفضلة لديك ؟",
+          "totalAnswers":10,
+          "answered" : false,
+          "choices" : [
+            {"id":"0", "title":"ظالم", "numberOfAnswers":5, "choosen":true },
+            {"id":"1", "title":"سرحان", "numberOfAnswers":2, "choosen":false },
+            {"id":"2", "title":"حيدر", "numberOfAnswers":3, "choosen":false }
+          ]
+        }
+      },
+      "datePosted": 1602820077,
+      "isLiked": false,
+      "likeCount": 666,
+      "isCommentedOn": false,
+      "commentsCount": 22,
+      "isStarred": false
+    },
+  {
+    "id": "6",
+    "postInfo": {
+      "type": "carousel",
+      "images":[
+        {
+          "id": "0",
+          "src":"https://images.unsplash.com/photo-1578692481683-72f89344cef9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60"
+        },
+        {
+          "id": "1",
+          "src":"https://images.unsplash.com/photo-1602341813901-96a9ad6c7361?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60"
+        },
+        {
+          "id": "2",
+          "src":"https://images.unsplash.com/photo-1590846406792-0adc7f938f1d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60"
+        }
+      ]
+    },
+    "posterProfilePic":"https://resize-elle.ladmedia.fr/r/300,,forcex/crop/300,386,center-middle,forcex,ffffff/img/var/plain_site/storage/images/personnalites/serge-gainsbourg/10039172-1-fre-FR/serge_gainsbourg.jpg",
+    "title":
+      "لوريم ايبسوم ليتصور طريقت ...",
+    "datePosted": 1602320077,
+    "isLiked": true,
+    "likeCount": 666,
+    "isCommentedOn": false,
+    "commentsCount": 999,
+    "isStarred": true
+  }
 ],
   "filters" : [
     { "id": "0", "name": "جميع الرسومات", "type": "all" },
@@ -55,6 +107,24 @@
       "image":
         "https://images.unsplash.com/photo-1603189864361-0cc65b5ecd3a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1275&q=80",
       "downloaded": true
+    },
+    {
+      "id": "2",
+      "image":
+        "https://images.unsplash.com/photo-1577003833619-76bbd7f82948?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2250&q=80",
+      "downloaded": false
+    },
+    {
+      "id": "3",
+      "image":
+        "https://images.unsplash.com/photo-1600781045350-c5d1107d3be0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2167&q=80",
+      "downloaded": false
+    },
+    {
+      "id": "4",
+      "image":
+        "https://images.unsplash.com/photo-1600189020840-e9918c25269d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=934&q=80",
+      "downloaded": true
     }
   ],
   "notifications" : 
@@ -72,6 +142,28 @@
       "image" :"https://www.atomicarchive.com/img/bios/feynman_thumb.jpg",
       "time": "2 hr ago",
       "isRead": false
+    },
+    { "id": "2", 
+      "title": "منشور جديد من عالم نور",
+      "body" : " . يوت انيم أد مينيم فينايم,كيواس نوستريوم",
+      "image" :"https://www.atomicarchive.com/img/bios/feynman_thumb.jpg",
+      "time": "2 hr ago",
+      "isRead": true
+    },
+    { "id": "3", 
+      "title": "منشور جديد من عالم نور",
+      "body" : " . يوت انيم أد مينيم فينايم,كيواس نوستريوم",
+      "image" :"https://www.atomicarchive.com/img/bios/feynman_thumb.jpg",
+      "time": "3 hr ago",
+      "isRead": true
+    }
+    ,
+    { "id": "4", 
+      "title": "منشور جديد من عالم نور",
+      "body" : " . يوت انيم أد مينيم فينايم,كيواس نوستريوم",
+      "image" :"https://www.atomicarchive.com/img/bios/feynman_thumb.jpg",
+      "time": "4 months ago",
+      "isRead": true
     }
   ]
 
