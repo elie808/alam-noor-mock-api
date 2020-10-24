@@ -83,7 +83,7 @@
       "colorTheme": "black",
       "redirectURL": "first",
       "image":
-        "https://images.unsplash.com/photo-1603006492339-c3214fd26ef6?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=934&q=80"
+        "https://staging.hellotree.dev/t/nour_api/zalem-sticker.jpg"
     },
     {
       "id": "1",
@@ -92,7 +92,7 @@
       "colorTheme": "#7fbbf3",
       "redirectURL": "second",
       "image":
-        "https://images.unsplash.com/photo-1603189864361-0cc65b5ecd3a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1275&q=80"
+        "https://staging.hellotree.dev/t/nour_api/nour-sticker.jpg"
     }
   ],
   "wallpapers" : [
