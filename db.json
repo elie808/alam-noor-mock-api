@@ -78,52 +78,52 @@
   "stickers" : [
     {
       "id": "0",
-      "title": "ملصقات ظالم",
-      "details": "25 ملصق",
-      "colorTheme": "black",
-      "redirectURL": "first",
-      "image":
-        "https://staging.hellotree.dev/t/nour_api/zalem-sticker.jpg"
-    },
-    {
-      "id": "1",
       "title": "ملصقات نور",
       "details": "25 ملصق",
       "colorTheme": "#7fbbf3",
       "redirectURL": "second",
       "image":
         "https://staging.hellotree.dev/t/nour_api/nour-sticker.jpg"
+    },
+    {
+      "id": "1",
+      "title": "ملصقات ظالم",
+      "details": "25 ملصق",
+      "colorTheme": "black",
+      "redirectURL": "first",
+      "image":
+        "https://staging.hellotree.dev/t/nour_api/zalem-sticker.jpg"
     }
   ],
   "wallpapers" : [
     {
       "id": "0",
       "image":
-        "https://images.unsplash.com/photo-1603006492339-c3214fd26ef6?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=934&q=80",
+        "https://staging.hellotree.dev/t/nour_api/bg-1.jpg",
       "downloaded": true
     },
     {
       "id": "1",
       "image":
-        "https://images.unsplash.com/photo-1603189864361-0cc65b5ecd3a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1275&q=80",
+        "https://staging.hellotree.dev/t/nour_api/bg-2.jpg",
       "downloaded": true
     },
     {
       "id": "2",
       "image":
-        "https://images.unsplash.com/photo-1577003833619-76bbd7f82948?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2250&q=80",
+        "https://staging.hellotree.dev/t/nour_api/bg-1.jpg",
       "downloaded": false
     },
     {
       "id": "3",
       "image":
-        "https://images.unsplash.com/photo-1600781045350-c5d1107d3be0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2167&q=80",
+        "https://staging.hellotree.dev/t/nour_api/bg-2.jpg",
       "downloaded": false
     },
     {
       "id": "4",
       "image":
-        "https://images.unsplash.com/photo-1600189020840-e9918c25269d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=934&q=80",
+        "https://staging.hellotree.dev/t/nour_api/bg-1.jpg",
       "downloaded": true
     }
   ],
