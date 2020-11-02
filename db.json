@@ -95,49 +95,6 @@
 			"type": "all"
 		}
 	],
-	"stickers": [{
-			"id": "0",
-			"title": "ملصقات نور",
-			"details": "25 ملصق",
-			"colorTheme": "#7fbbf3",
-			"redirectURL": "second",
-			"image": "https://staging.hellotree.dev/t/nour_api/nour-sticker.jpg"
-		},
-		{
-			"id": "1",
-			"title": "ملصقات ظالم",
-			"details": "25 ملصق",
-			"colorTheme": "black",
-			"redirectURL": "first",
-			"image": "https://staging.hellotree.dev/t/nour_api/zalem-sticker.jpg"
-		}
-	],
-	"wallpapers": [{
-			"id": "0",
-			"image": "https://staging.hellotree.dev/t/nour_api/bg-1.jpg",
-			"downloaded": true
-		},
-		{
-			"id": "1",
-			"image": "https://staging.hellotree.dev/t/nour_api/bg-2.jpg",
-			"downloaded": true
-		},
-		{
-			"id": "2",
-			"image": "https://staging.hellotree.dev/t/nour_api/bg-1.jpg",
-			"downloaded": false
-		},
-		{
-			"id": "3",
-			"image": "https://staging.hellotree.dev/t/nour_api/bg-2.jpg",
-			"downloaded": false
-		},
-		{
-			"id": "4",
-			"image": "https://staging.hellotree.dev/t/nour_api/bg-1.jpg",
-			"downloaded": true
-		}
-	],
 	"notifications": [{
 			"status": "Unread",
 			"data": [{
