@@ -1,210 +1,225 @@
 {
-  "posts": [
-    {
-      "id": "0",
-      "postInfo": {
-        "type": "image",
-        "image": "https://staging.hellotree.dev/t/nour_api/Images-1.png"
-      },
-      "posterProfilePic":"https://staging.hellotree.dev/t/nour_api/nour-pp.png",
-      "title": " إلى حد ما- للأحرف عوضاً عن استخدامهنا يوجد محتوى نصي، هنا يوجد محتوى نصي فتجعلها تبدو (أي الأحرف) وكأنها نص مقرو",
-      "datePosted": 1602320077,
-      "isLiked": false,
-      "likeCount": 22,
-      "isCommentedOn": false,
-      "commentsCount": 22,
-      "isStarred": false
-    },
-    {
-      "id": "2",
-      "postInfo": {
-        "type": "quizz",
-        "quizz":{
-          "endDate": 1608249600,
-          "title": "من هي شخصية علم نور المفضلة لديك ؟",
-          "totalAnswers":10,
-          "answered" : false,
-          "choices" : [
-            {"id":"0", "title":"ظالم", "numberOfAnswers":5, "choosen":true },
-            {"id":"1", "title":"سرحان", "numberOfAnswers":2, "choosen":false },
-            {"id":"2", "title":"حيدر", "numberOfAnswers":3, "choosen":false }
-          ]
-        }
-      },
-      "datePosted": 1602820077,
-      "isLiked": false,
-      "likeCount": 666,
-      "isCommentedOn": false,
-      "commentsCount": 22,
-      "isStarred": false
-    },
-  {
-    "id": "6",
-    "postInfo": {
-      "type": "carousel",
-      "images":[
-        {
-          "id": "0",
-          "src":"https://staging.hellotree.dev/t/nour_api/Images.png"
-        },
-        {
-          "id": "1",
-          "src":"https://staging.hellotree.dev/t/nour_api/Images-1.png"
-        },
-        {
-          "id": "2",
-          "src":"https://staging.hellotree.dev/t/nour_api/Images.png"
-        }
-      ]
-    },
-    "posterProfilePic":"https://staging.hellotree.dev/t/nour_api/nour-pp.png",
-    "title":
-      "لوريم ايبسوم ليتصور طريقت ...",
-    "datePosted": 1602320077,
-    "isLiked": true,
-    "likeCount": 666,
-    "isCommentedOn": false,
-    "commentsCount": 999,
-    "isStarred": true
-  }
-],
-  "filters" : [
-    { "id": "0", "name": "جميع الرسومات", "type": "all" },
-    { "id": "1", "name": "فيديو", "type": "all" },
-    { "id": "2", "name": "كاركتير", "type": "all" },
-    { "id": "3", "name": "أقوال", "type": "all" },
-    { "id": "4", "name": "كتب", "type": "all" }
-  ],
-  "stickers" : [
-    {
-      "id": "0",
-      "title": "ملصقات نور",
-      "details": "25 ملصق",
-      "colorTheme": "#7fbbf3",
-      "redirectURL": "second",
-      "image":
-        "https://staging.hellotree.dev/t/nour_api/nour-sticker.jpg"
-    },
-    {
-      "id": "1",
-      "title": "ملصقات ظالم",
-      "details": "25 ملصق",
-      "colorTheme": "black",
-      "redirectURL": "first",
-      "image":
-        "https://staging.hellotree.dev/t/nour_api/zalem-sticker.jpg"
-    }
-  ],
-  "wallpapers" : [
-    {
-      "id": "0",
-      "image":
-        "https://staging.hellotree.dev/t/nour_api/bg-1.jpg",
-      "downloaded": true
-    },
-    {
-      "id": "1",
-      "image":
-        "https://staging.hellotree.dev/t/nour_api/bg-2.jpg",
-      "downloaded": true
-    },
-    {
-      "id": "2",
-      "image":
-        "https://staging.hellotree.dev/t/nour_api/bg-1.jpg",
-      "downloaded": false
-    },
-    {
-      "id": "3",
-      "image":
-        "https://staging.hellotree.dev/t/nour_api/bg-2.jpg",
-      "downloaded": false
-    },
-    {
-      "id": "4",
-      "image":
-        "https://staging.hellotree.dev/t/nour_api/bg-1.jpg",
-      "downloaded": true
-    }
-  ],
-  "notifications" : 
-  [
-    {
-      "status": "Unread",
-      "data": [
-        { "id": "0", 
-          "title": "منشور جديد من عالم نور",
-          "body" : "وريم ايبسوم دولار سيت أميت ,كونسيكتيتور أدايبا يسكينج أليايت,سيت دو أيوسمود تيمبور أنكايديديونتيوت لابوري ات دولار ماجنا أليكيوا . يوت انيم أد مينيم فينايم,كيواس نوستريد أكسير سيتاشن يللأمكو لابورأس نيسي يت أليكيوب أكس أيا كوممودو كونسيكيوات . ديواس أيوتي أريري دولار إن ريبريهينديرأيت فوليوبتاتي فيلايت أيسسي كايلليوم دولار أيو فيجايت نيولا باراياتيور. أيكسسيبتيور ساينت أوككايكات كيوبايداتات نون بروايدينت ,سيونت ان كيولبا كيو أوفيسيا ديسيريونتموليت انيم أيدي ايست لابوريوم",
-          "image" :"https://www.atomicarchive.com/img/bios/feynman_thumb.jpg",
-          "time": "1 hr ago",
-          "isRead": false
-        },
-        { "id": "1", 
-          "title": "منشور جديد من عالم نور",
-          "body" : "وريم ايبسوم دولار سيت أميت ,كونسيكتيتور أدايبا يسكينج أليايت,سيت دو أيوسمود تيمبور أنكايديديونتيوت لابوري ات دولار ماجنا أليكيوا . يوت انيم أد مينيم فينايم,كيواس نوستريوم",
-          "image" :"https://www.atomicarchive.com/img/bios/feynman_thumb.jpg",
-          "time": "2 hr ago",
-          "isRead": false
-        },
-        { "id": "2", 
-          "title": "منشور جديد من عالم نور",
-          "body" : " . يوت انيم أد مينيم فينايم,كيواس نوستريوم",
-          "image" :"https://www.atomicarchive.com/img/bios/feynman_thumb.jpg",
-          "time": "2 hr ago",
-          "isRead": false
-        }
-      ],
-    },
-    {
-      "status": "Read",
-      "data": [
-        { "id": "3", 
-          "title": "منشور جديد من عالم نور",
-          "body" : " . يوت انيم أد مينيم فينايم,كيواس نوستريوم",
-          "image" :"https://www.atomicarchive.com/img/bios/feynman_thumb.jpg",
-          "time": "3 hr ago",
-          "isRead": true
-        },
-        { "id": "4", 
-          "title": "منشور جديد من عالم نور",
-          "body" : " . يوت انيم أد مينيم فينايم,كيواس نوستريوم",
-          "image" :"https://www.atomicarchive.com/img/bios/feynman_thumb.jpg",
-          "time": "4 months ago",
-          "isRead": true
-        }
-      ]
-    }
-  ],
-  "randomPosts" : [
-    {
-      "id": "0",
-      "image":
-        "https://i.pinimg.com/originals/6a/c2/6d/6ac26d694b348d15c5134bdd390df247.jpg",
-    },
-    {
-      "id": "1",
-      "image":
-        "https://i.pinimg.com/originals/6a/c2/6d/6ac26d694b348d15c5134bdd390df247.jpg",
-    },
-    {
-      "id": "2",
-      "image":
-        "https://i.pinimg.com/originals/6a/c2/6d/6ac26d694b348d15c5134bdd390df247.jpg",
-    },
-    {
-      "id": "3",
-      "image":
-        "https://i.pinimg.com/originals/6a/c2/6d/6ac26d694b348d15c5134bdd390df247.jpg",
-    },
-    {
-      "id": "4",
-      "image":
-        "https://i.pinimg.com/originals/6a/c2/6d/6ac26d694b348d15c5134bdd390df247.jpg",
-    },
-    {
-      "id": "5",
-      "image":
-        "https://i.pinimg.com/originals/6a/c2/6d/6ac26d694b348d15c5134bdd390df247.jpg",
-    }
-  ]
+	"posts": [{
+			"id": "0",
+			"postInfo": {
+				"type": "image",
+				"image": "https://staging.hellotree.dev/t/nour_api/Images-1.png"
+			},
+			"posterProfilePic": "https://staging.hellotree.dev/t/nour_api/nour-pp.png",
+			"title": " إلى حد ما- للأحرف عوضاً عن استخدامهنا يوجد محتوى نصي، هنا يوجد محتوى نصي فتجعلها تبدو (أي الأحرف) وكأنها نص مقرو",
+			"datePosted": 1602320077,
+			"isLiked": false,
+			"likeCount": 22,
+			"isCommentedOn": false,
+			"commentsCount": 22,
+			"isStarred": false
+		},
+		{
+			"id": "2",
+			"postInfo": {
+				"type": "quizz",
+				"quizz": {
+					"endDate": 1608249600,
+					"title": "من هي شخصية علم نور المفضلة لديك ؟",
+					"totalAnswers": 10,
+					"answered": false,
+					"choices": [{
+							"id": "0",
+							"title": "ظالم",
+							"numberOfAnswers": 5,
+							"choosen": true
+						},
+						{
+							"id": "1",
+							"title": "سرحان",
+							"numberOfAnswers": 2,
+							"choosen": false
+						},
+						{
+							"id": "2",
+							"title": "حيدر",
+							"numberOfAnswers": 3,
+							"choosen": false
+						}
+					]
+				}
+			},
+			"datePosted": 1602820077,
+			"isLiked": false,
+			"likeCount": 666,
+			"isCommentedOn": false,
+			"commentsCount": 22,
+			"isStarred": false
+		},
+		{
+			"id": "6",
+			"postInfo": {
+				"type": "carousel",
+				"images": [{
+						"id": "0",
+						"src": "https://staging.hellotree.dev/t/nour_api/Images.png"
+					},
+					{
+						"id": "1",
+						"src": "https://staging.hellotree.dev/t/nour_api/Images-1.png"
+					},
+					{
+						"id": "2",
+						"src": "https://staging.hellotree.dev/t/nour_api/Images.png"
+					}
+				]
+			},
+			"posterProfilePic": "https://staging.hellotree.dev/t/nour_api/nour-pp.png",
+			"title": "لوريم ايبسوم ليتصور طريقت ...",
+			"datePosted": 1602320077,
+			"isLiked": true,
+			"likeCount": 666,
+			"isCommentedOn": false,
+			"commentsCount": 999,
+			"isStarred": true
+		}
+	],
+	"filters": [{
+			"id": "0",
+			"name": "جميع الرسومات",
+			"type": "all"
+		},
+		{
+			"id": "1",
+			"name": "فيديو",
+			"type": "all"
+		},
+		{
+			"id": "2",
+			"name": "كاركتير",
+			"type": "all"
+		},
+		{
+			"id": "3",
+			"name": "أقوال",
+			"type": "all"
+		},
+		{
+			"id": "4",
+			"name": "كتب",
+			"type": "all"
+		}
+	],
+	"stickers": [{
+			"id": "0",
+			"title": "ملصقات نور",
+			"details": "25 ملصق",
+			"colorTheme": "#7fbbf3",
+			"redirectURL": "second",
+			"image": "https://staging.hellotree.dev/t/nour_api/nour-sticker.jpg"
+		},
+		{
+			"id": "1",
+			"title": "ملصقات ظالم",
+			"details": "25 ملصق",
+			"colorTheme": "black",
+			"redirectURL": "first",
+			"image": "https://staging.hellotree.dev/t/nour_api/zalem-sticker.jpg"
+		}
+	],
+	"wallpapers": [{
+			"id": "0",
+			"image": "https://staging.hellotree.dev/t/nour_api/bg-1.jpg",
+			"downloaded": true
+		},
+		{
+			"id": "1",
+			"image": "https://staging.hellotree.dev/t/nour_api/bg-2.jpg",
+			"downloaded": true
+		},
+		{
+			"id": "2",
+			"image": "https://staging.hellotree.dev/t/nour_api/bg-1.jpg",
+			"downloaded": false
+		},
+		{
+			"id": "3",
+			"image": "https://staging.hellotree.dev/t/nour_api/bg-2.jpg",
+			"downloaded": false
+		},
+		{
+			"id": "4",
+			"image": "https://staging.hellotree.dev/t/nour_api/bg-1.jpg",
+			"downloaded": true
+		}
+	],
+	"notifications": [{
+			"status": "Unread",
+			"data": [{
+					"id": "0",
+					"title": "منشور جديد من عالم نور",
+					"body": "وريم ايبسوم دولار سيت أميت ,كونسيكتيتور أدايبا يسكينج أليايت,سيت دو أيوسمود تيمبور أنكايديديونتيوت لابوري ات دولار ماجنا أليكيوا . يوت انيم أد مينيم فينايم,كيواس نوستريد أكسير سيتاشن يللأمكو لابورأس نيسي يت أليكيوب أكس أيا كوممودو كونسيكيوات . ديواس أيوتي أريري دولار إن ريبريهينديرأيت فوليوبتاتي فيلايت أيسسي كايلليوم دولار أيو فيجايت نيولا باراياتيور. أيكسسيبتيور ساينت أوككايكات كيوبايداتات نون بروايدينت ,سيونت ان كيولبا كيو أوفيسيا ديسيريونتموليت انيم أيدي ايست لابوريوم",
+					"image": "https://www.atomicarchive.com/img/bios/feynman_thumb.jpg",
+					"time": "1 hr ago",
+					"isRead": false
+				},
+				{
+					"id": "1",
+					"title": "منشور جديد من عالم نور",
+					"body": "وريم ايبسوم دولار سيت أميت ,كونسيكتيتور أدايبا يسكينج أليايت,سيت دو أيوسمود تيمبور أنكايديديونتيوت لابوري ات دولار ماجنا أليكيوا . يوت انيم أد مينيم فينايم,كيواس نوستريوم",
+					"image": "https://www.atomicarchive.com/img/bios/feynman_thumb.jpg",
+					"time": "2 hr ago",
+					"isRead": false
+				},
+				{
+					"id": "2",
+					"title": "منشور جديد من عالم نور",
+					"body": " . يوت انيم أد مينيم فينايم,كيواس نوستريوم",
+					"image": "https://www.atomicarchive.com/img/bios/feynman_thumb.jpg",
+					"time": "2 hr ago",
+					"isRead": false
+				}
+			]
+		},
+		{
+			"status": "Read",
+			"data": [{
+					"id": "3",
+					"title": "منشور جديد من عالم نور",
+					"body": " . يوت انيم أد مينيم فينايم,كيواس نوستريوم",
+					"image": "https://www.atomicarchive.com/img/bios/feynman_thumb.jpg",
+					"time": "3 hr ago",
+					"isRead": true
+				},
+				{
+					"id": "4",
+					"title": "منشور جديد من عالم نور",
+					"body": " . يوت انيم أد مينيم فينايم,كيواس نوستريوم",
+					"image": "https://www.atomicarchive.com/img/bios/feynman_thumb.jpg",
+					"time": "4 months ago",
+					"isRead": true
+				}
+			]
+		}
+	],
+	"randomPosts": [{
+			"id": "0",
+			"image": "https://i.pinimg.com/originals/6a/c2/6d/6ac26d694b348d15c5134bdd390df247.jpg"
+		},
+		{
+			"id": "1",
+			"image": "https://i.pinimg.com/originals/6a/c2/6d/6ac26d694b348d15c5134bdd390df247.jpg"
+		},
+		{
+			"id": "2",
+			"image": "https://i.pinimg.com/originals/6a/c2/6d/6ac26d694b348d15c5134bdd390df247.jpg"
+		},
+		{
+			"id": "3",
+			"image": "https://i.pinimg.com/originals/6a/c2/6d/6ac26d694b348d15c5134bdd390df247.jpg"
+		},
+		{
+			"id": "4",
+			"image": "https://i.pinimg.com/originals/6a/c2/6d/6ac26d694b348d15c5134bdd390df247.jpg"
+		},
+		{
+			"id": "5",
+			"image": "https://i.pinimg.com/originals/6a/c2/6d/6ac26d694b348d15c5134bdd390df247.jpg"
+		}
+	]
 }
